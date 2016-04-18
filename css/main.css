@@ -1,0 +1,45 @@
+body {
+    background: #b8b6b7;
+    color: #252122;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+img,
+span {
+    display: block;
+    max-width: 90%;
+    margin: 0 auto;
+}
+img {
+    width: 250px;
+    height: auto;
+    margin-bottom: 100px;
+}
+span {
+    width: 600px;
+    max-width: 90vw;
+}
+.coming-soon {
+    margin-bottom: 40px;
+    font-size: 2.125em;
+    line-height: 1.4em;
+    font-family: 'Montserrat', sans-serif;
+}
+.email {
+    line-height: 2.2em;
+    letter-spacing: .25em;
+    text-transform: uppercase;
+}
+a {
+    color: #b5975a;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "fourlabsldn.github.io/vertigo",
+  "version": "1.0.0",
+  "description": "Vertigo Properties London",
+  "main": "index.html",
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fourlabsldn/vertigo"
+  },
+  "author": "Four Labs",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fourlabsldn/vertigo/issues"
+  },
+  "homepage": "https://github.com/fourlabsldn/vertigo#readme"
+}
