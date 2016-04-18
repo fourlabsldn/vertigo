@@ -13,7 +13,7 @@ body {
 img,
 span {
     display: block;
-    max-width: 90%;
+    max-width: 90vw;
     margin: 0 auto;
 }
 img {
@@ -47,7 +47,7 @@ a:hover {
 @media (max-width: 375px) {
   img,
   span {
-    max-width: 80%;
+    max-width: 80vw;
   }
   img {
     margin-bottom: 80px;
