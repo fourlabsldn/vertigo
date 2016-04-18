@@ -43,3 +43,16 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+@media (max-width: 375px) {
+  img,
+  span {
+    max-width: 80%;
+  }
+  img {
+    margin-bottom: 80px;
+  }
+  .email {
+    font-size: .75em;
+  }
+}
